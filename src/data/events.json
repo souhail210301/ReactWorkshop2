@@ -1,0 +1,24 @@
+{
+  "events": [
+    {
+      "name": "Festival de la mÃ©dina de Tunis 2",
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisÃ©e Ã  titre provisoire pour calibrer une mise en page",
+      "price": 15,
+      "img": "event3.jpg",
+      "nbTickets": 4,
+      "nbParticipants": 30,
+      "like": false,
+      "id": "15dd"
+    },
+    {
+      "name": "Festival de la mÃ©dina de Tunis 2",
+      "description": "Le lorem ipsum est, en imprimerie, une suite de mots sans signification utilisÃ©e Ã  titre provisoire pour calibrer une mise en page",
+      "price": 15,
+      "img": "event2.jpg",
+      "nbTickets": 4,
+      "nbParticipants": 30,
+      "like": false,
+      "id": "14dd"
+    }
+  ]
+}
